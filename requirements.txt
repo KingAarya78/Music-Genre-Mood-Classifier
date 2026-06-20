@@ -1,0 +1,10 @@
+streamlit
+librosa
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib
+python-dotenv
+soundfile
+audioread
